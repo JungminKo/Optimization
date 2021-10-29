@@ -5,3 +5,5 @@
 - secant_method
 - steepest descent
 - conjugate gradient algorithm
+
+- heuristic algorithm
